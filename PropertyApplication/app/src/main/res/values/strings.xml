@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PropertyApplication</string>
+    <string name="propertyName">Property Type</string>
+</resources>

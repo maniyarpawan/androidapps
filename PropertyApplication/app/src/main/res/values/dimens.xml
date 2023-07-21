@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">12dp</dimen>
+    <dimen name="radius">8dp</dimen>
+    <dimen name="elevationb">8dp</dimen>
+    <dimen name="padding">12dp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="rbgMargin">10dp</dimen>
+    <dimen name="rbgPadding">10dp</dimen>
+</resources>
